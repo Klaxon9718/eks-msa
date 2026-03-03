@@ -16,7 +16,7 @@ spec:
         prometheus.io/port: "8080"
       labels:
         app: apigateway
-    spec:
+    spec: 
       containers:
       - name: apigateway-container
         image: 358273782738.dkr.ecr.ap-northeast-2.amazonaws.com/apigateway
