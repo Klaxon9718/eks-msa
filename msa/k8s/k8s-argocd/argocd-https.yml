@@ -13,4 +13,4 @@ spec:
     kind: ClusterIssuer
   commonName: argo.sziget.click
   dnsNames:
-  - argo.sziget.click
+  - argo.sziget.click 
